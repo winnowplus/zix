@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Zix
+## Author: Winnow
+## Version: 1.0
+
+add_pfUI_autoshift_mounts.lua
