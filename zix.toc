@@ -5,4 +5,4 @@
 
 add_pfUI_autoshift_mounts.lua
 
-fix_UnitFactionGroup.lua.lua
+fix_UnitFactionGroup.lua
